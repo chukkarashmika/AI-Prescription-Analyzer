@@ -1,0 +1,82 @@
+medicine,disease,description,side_effects,dosage
+Paracetamol,Fever and Pain,Reduces fever and mild pain,Nausea liver issues,500-650mg every 4-6 hours
+Ibuprofen,Pain and Inflammation,Anti inflammatory pain reliever,Stomach pain nausea,200-400mg every 6-8 hours
+Amoxicillin,Bacterial Infection,Antibiotic used for infections,Rash diarrhea,250-500mg every 8 hours
+Aspirin,Pain and Blood Clot Prevention,Pain reliever and blood thinner,Stomach irritation,75-325mg daily
+Cetirizine,Allergy,Relieves allergy symptoms,Sleepiness dry mouth,10mg daily
+Metformin,Type 2 Diabetes,Controls blood sugar levels,Nausea stomach upset,500mg twice daily
+Azithromycin,Bacterial Infection,Antibiotic for respiratory infections,Nausea diarrhea,500mg once daily
+Pantoprazole,Acidity,Reduces stomach acid,Headache diarrhea,40mg daily
+Omeprazole,Acid Reflux,Treats GERD and ulcers,Headache stomach pain,20mg daily
+Amlodipine,High Blood Pressure,Controls hypertension,Dizziness swelling,5mg daily
+Losartan,High Blood Pressure,Controls blood pressure,Fatigue dizziness,50mg daily
+Atorvastatin,High Cholesterol,Lowers cholesterol,Muscle pain digestive issues,10-20mg daily
+Montelukast,Asthma and Allergy,Prevents asthma attacks,Headache stomach pain,10mg nightly
+Salbutamol,Asthma,Bronchodilator for breathing relief,Tremor nervousness,2 puffs when required
+Dolo 650,Fever,Paracetamol based fever medicine,Nausea,650mg every 6 hours
+Crocin,Fever,Pain and fever relief,Allergic reaction rare,500mg every 6 hours
+Diclofenac,Pain and Inflammation,NSAID pain reliever,Stomach irritation,50mg twice daily
+Naproxen,Pain and Arthritis,Anti inflammatory drug,Nausea dizziness,250mg twice daily
+Tramadol,Severe Pain,Opioid pain medication,Dizziness nausea,50-100mg every 6 hours
+Codeine,Pain Relief,Opioid analgesic,Drowsiness constipation,15-60mg every 4-6 hours
+Clarithromycin,Bacterial Infection,Macrolide antibiotic,Nausea diarrhea,250-500mg twice daily
+Ciprofloxacin,Bacterial Infection,Fluoroquinolone antibiotic,Nausea dizziness,250-750mg twice daily
+Levofloxacin,Bacterial Infection,Broad spectrum antibiotic,Nausea insomnia,500mg daily
+Doxycycline,Bacterial Infection,Antibiotic for infections,Sun sensitivity nausea,100mg twice daily
+Penicillin,Bacterial Infection,Treats bacterial infections,Rash diarrhea,250mg every 6 hours
+Clindamycin,Bacterial Infection,Antibiotic for serious infections,Diarrhea stomach pain,150-300mg every 6 hours
+Hydroxyzine,Allergy,Antihistamine medication,Drowsiness dry mouth,25mg daily
+Loratadine,Allergy,Non drowsy antihistamine,Headache fatigue,10mg daily
+Fexofenadine,Allergy,Treats allergic symptoms,Headache nausea,120mg daily
+Diphenhydramine,Allergy,Antihistamine for allergies,Drowsiness dizziness,25-50mg every 6 hours
+Prednisone,Inflammation,Steroid medication,Weight gain mood changes,5-60mg daily
+Hydrocortisone,Inflammation,Steroid anti inflammatory,Skin thinning irritation,Apply twice daily
+Betamethasone,Skin Disorders,Steroid cream for skin inflammation,Skin irritation,Apply once daily
+Insulin,Diabetes,Regulates blood sugar,Hypoglycemia,As prescribed
+Glimepiride,Type 2 Diabetes,Improves insulin secretion,Hypoglycemia nausea,1-4mg daily
+Gliclazide,Type 2 Diabetes,Oral diabetes medicine,Hypoglycemia dizziness,40-80mg daily
+Sitagliptin,Type 2 Diabetes,Improves blood sugar control,Headache sore throat,100mg daily
+Canagliflozin,Type 2 Diabetes,SGLT2 inhibitor for glucose control,Frequent urination,100mg daily
+Empagliflozin,Type 2 Diabetes,Lowers blood sugar levels,Urinary infection,10mg daily
+Glucophage,Diabetes,Brand of metformin,Nausea diarrhea,500mg twice daily
+Warfarin,Blood Clot Prevention,Anticoagulant,Bleeding risk,2-10mg daily
+Clopidogrel,Heart Disease,Prevents blood clots,Bleeding bruising,75mg daily
+Nitroglycerin,Angina,Relieves chest pain,Headache dizziness,0.3-0.6mg when needed
+Propranolol,Hypertension,Beta blocker,Dizziness fatigue,40mg twice daily
+Atenolol,Hypertension,Beta blocker medicine,Cold extremities fatigue,50mg daily
+Metoprolol,Heart Disease,Beta blocker for BP,Fatigue dizziness,50mg daily
+Hydrochlorothiazide,Hypertension,Diuretic for BP,Frequent urination,25mg daily
+Furosemide,Fluid Retention,Loop diuretic,Dehydration dizziness,20-80mg daily
+Spironolactone,Heart Failure,Potassium sparing diuretic,High potassium nausea,25mg daily
+Ramipril,Hypertension,ACE inhibitor,Cough dizziness,5mg daily
+Enalapril,Hypertension,ACE inhibitor,Cough headache,5mg daily
+Lisinopril,Hypertension,ACE inhibitor,Cough dizziness,10mg daily
+Valsartan,Hypertension,Angiotensin receptor blocker,Dizziness fatigue,80mg daily
+Telmisartan,Hypertension,ARB medication,Dizziness nausea,40mg daily
+Simvastatin,High Cholesterol,Lowers cholesterol,Muscle pain,20mg daily
+Rosuvastatin,High Cholesterol,Statin drug,Muscle pain headache,10mg daily
+Pravastatin,High Cholesterol,Reduces LDL cholesterol,Headache nausea,20mg daily
+Alprazolam,Anxiety,Anti anxiety medication,Drowsiness dependence,0.25-0.5mg daily
+Diazepam,Anxiety,Benzodiazepine sedative,Drowsiness fatigue,5-10mg daily
+Lorazepam,Anxiety,Anti anxiety medication,Drowsiness dizziness,1-2mg daily
+Sertraline,Depression,SSRI antidepressant,Nausea insomnia,50mg daily
+Fluoxetine,Depression,Antidepressant medication,Insomnia nausea,20mg daily
+Citalopram,Depression,SSRI antidepressant,Nausea dry mouth,20mg daily
+Escitalopram,Depression,Antidepressant medicine,Nausea fatigue,10mg daily
+Acyclovir,Viral Infection,Antiviral medication,Nausea diarrhea,400mg 3 times daily
+Valacyclovir,Viral Infection,Antiviral medicine,Headache nausea,500mg twice daily
+Oseltamivir,Flu,Antiviral for influenza,Nausea vomiting,75mg twice daily
+Ranitidine,Acidity,H2 blocker for acid control,Headache constipation,150mg twice daily
+Famotidine,Acidity,H2 blocker,Headache dizziness,20mg daily
+Sucralfate,Ulcers,Protects stomach lining,Constipation,1g four times daily
+Domperidone,Nausea,Anti nausea medication,Dry mouth headache,10mg before meals
+Ondansetron,Nausea,Antiemetic drug,Headache constipation,4-8mg daily
+Loperamide,Diarrhea,Anti diarrhea medicine,Constipation dizziness,2mg after loose stool
+ORS,Dehydration,Oral rehydration salts,None,As needed
+Zinc,Diarrhea Treatment,Mineral supplement,Nausea metallic taste,20mg daily
+Vitamin C,Immunity,Antioxidant supplement,Stomach upset,500mg daily
+Vitamin D,Vitamin Deficiency,Bone health supplement,Nausea weakness,1000IU daily
+Calcium Carbonate,Bone Health,Calcium supplement,Constipation,500mg daily
+Iron,Fatigue Treatment,Treats anemia,Constipation nausea,60mg daily
+Folic Acid,Anemia,Vitamin B9 supplement,Nausea,5mg daily
+Multivitamin,Nutritional Support,Vitamin supplement,Rare stomach upset,1 tablet daily
