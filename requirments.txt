@@ -1,6 +1,5 @@
-tensorflow
 streamlit
+tensorflow-cpu
 pandas
 numpy
-opencv-python
-Pillow
+pillow
